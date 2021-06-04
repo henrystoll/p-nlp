@@ -1,4 +1,4 @@
-Ticker,Twitter Username,Name,Industry,Total ESG Risk Score,Environment Risk Score,Social Risk Score,Governance Risk Score
+Ticker,username,Name,Industry,Total ESG Risk Score,Environment Risk Score,Social Risk Score,Governance Risk Score
 MMM,3m,3M Company (MMM),Industrials,34,12.6,12.6,8.4
 AOS,aosmithhotwater,A. O. Smith Corporation (AOS),Industrials,32,9.5,14.9,7.6
 ABT,abbottnews,Abbott Laboratories (ABT),Health Care,31,3.7,15.9,11.6
