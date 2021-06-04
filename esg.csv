@@ -1,4 +1,4 @@
-Ticker,Twitter Username,Name,Industry,Total ESG Risk Score,Environment Risk Score,Social Risk Score,Governance Risk Score
+Ticker,peoplesunited,Name,Industry,Total ESG Risk Score,Environment Risk Score,Social Risk Score,Governance Risk Score
 MMM,3m,3M Company (MMM),Industrials,34,12.6,12.6,8.4
 AOS,aosmithhotwater,A. O. Smith Corporation (AOS),Industrials,32,9.5,14.9,7.6
 ABT,abbottnews,Abbott Laboratories (ABT),Health Care,31,3.7,15.9,11.6
@@ -270,75 +270,71 @@ NEE,nexteraenergy,"NextEra Energy, Inc. (NEE)",Utilities,30,15,9,6
 NLSN,nielsenir,Nielsen Holdings plc (NLSN),Industrials,23,0,16,7
 NKE,nike,"NIKE, Inc. (NKE)",Consumer Discretionary,17,2,6,8
 NI,nisourceinc,NiSource Inc. (NI),Utilities,32,15,10,7
-NBL,,"Noble Energy, Inc. (NBL)",Energy,41,21,11,8
-JWN,,"Nordstrom, Inc. (JWN)",Consumer Discretionary,15,2,8,5
-NSC,,Norfolk Southern Corporation (NSC),Industrials,24,9,12,4
-NTRS,,Northern Trust Corporation (NTRS),Financials,25,2,12,11
-NLOK,,NortonLifeLock Inc. (NLOK),Information Technology,16,1,10,6
-NCLH,,Norwegian Cruise Line Holdings Ltd. (NCLH),Consumer Discretionary,27,13,11,4
-NRG,,"NRG Energy, Inc. (NRG)",Utilities,40,21,11,8
-NUE,,Nucor Corporation (NUE),Materials,38,15,14,9
-NVDA,,NVIDIA Corporation (NVDA),Information Technology,13,2,4,7
-ORLY,,"O'Reilly Automotive, Inc. (ORLY)",Consumer Discretionary,13,0,9,4
-OXY,,Occidental Petroleum Corporation (OXY),Energy,43,23,12,8
-OKE,,"ONEOK, Inc. (OKE)",Energy,27,13,10,4
-ORCL,,Oracle Corporation (ORCL),Information Technology,18,0,11,7
-PCAR,,PACCAR Inc (PCAR),Industrials,35,8,17,10
-PKG,,Packaging Corporation of America (PKG),Materials,19,13,2,4
-PH,,Parker-Hannifin Corporation (PH),Industrials,30,7,15,8
-PAYX,,"Paychex, Inc. (PAYX)",Information Technology,16,0,9,7
-PYPL,,"PayPal Holdings, Inc. (PYPL)",Information Technology,19,0,12,8
-PNR,,Pentair plc (PNR),Industrials,31,9,16,7
-PBCT,,"People's United Financial, Inc. (PBCT)",Financials,27,3,13,11
-PEP,,"PepsiCo, Inc. (PEP)",Consumer Staples,22,7,10,5
-PKI,,"PerkinElmer, Inc. (PKI)",Health Care,21,2,13,7
-PRGO,,Perrigo Company plc (PRGO),Health Care,41,3,24,13
-PFE,,Pfizer Inc. (PFE),Health Care,33,2,18,13
-PM,,Philip Morris International Inc. (PM),Consumer Staples,29,7,14,8
-PSX,,Phillips 66 (PSX),Energy,31,19,7,5
-PNW,,Pinnacle West Capital Corporation (PNW),Utilities,28,11,10,6
-PXD,,Pioneer Natural Resources Company (PXD),Energy,45,23,13,9
-PNC,,"The PNC Financial Services Group, Inc. (PNC)",Financials,20,2,10,8
-PFG,,"Principal Financial Group, Inc. (PFG)",Financials,22,2,9,12
-PGR,,The Progressive Corporation (PGR),Financials,25,2,9,13
-PLD,,"Prologis, Inc. (PLD)",Real Estate,10,3,3,5
-PRU,,"Prudential Financial, Inc. (PRU)",Financials,19,1,10,8
-PEG,,Public Service Enterprise Group Incorporated (PEG),Utilities,29,14,10,5
-PSA,,Public Storage (PSA),Real Estate,18,6,6,6
-PHM,,"PulteGroup, Inc. (PHM)",Consumer Discretionary,22,8,9,5
-PVH,,PVH Corp. (PVH),Consumer Discretionary,15,1,7,7
-QRVO,,"Qorvo, Inc. (QRVO)",Information Technology,36,20,9,8
-QCOM,,QUALCOMM Incorporated (QCOM),Information Technology,19,2,6,11
-PWR,,"Quanta Services, Inc. (PWR)",Industrials,37,9,16,12
-RL,,Ralph Lauren Corporation (RL),Consumer Discretionary,14,1,6,7
-RJF,,"Raymond James Financial, Inc. (RJF)",Financials,29,2,13,15
-O,,Realty Income Corporation (O),Real Estate,19,7,7,5
-REG,,Regency Centers Corporation (REG),Real Estate,11,3,3,4
-REGN,,"Regeneron Pharmaceuticals, Inc. (REGN)",Health Care,25,0,17,8
-RF,,Regions Financial Corporation (RF),Financials,20,1,10,8
-RMD,,ResMed Inc. (RMD),Health Care,28,4,12,11
-RHI,,Robert Half International Inc. (RHI),Industrials,11,0,7,4
-ROK,,"Rockwell Automation, Inc. (ROK)",Industrials,22,7,9,7
-ROL,,"Rollins, Inc. (ROL)",Industrials,22,10,7,5
-ROP,,"Roper Technologies, Inc. (ROP)",Industrials,21,1,14,6
-ROST,,"Ross Stores, Inc. (ROST)",Consumer Discretionary,16,2,8,6
-RCL,,Royal Caribbean Cruises Ltd. (RCL),Consumer Discretionary,23,10,9,4
-SPGI,,S&P Global Inc. (SPGI),Financials,14,1,6,6
-CRM,,"salesforce.com, inc. (CRM)",Information Technology,14,1,8,5
-SLB,,Schlumberger Limited (SLB),Energy,24,10,7,7
-STX,,Seagate Technology plc (STX),Information Technology,15,2,8,6
-SEE,,Sealed Air Corporation (SEE),Materials,20,13,2,4
-SRE,,Sempra Energy (SRE),Utilities,30,13,10,6
-NOW,,"ServiceNow, Inc. (NOW)",Information Technology,22,2,14,7
-SHW,,The Sherwin-Williams Company (SHW),Materials,31,13,11,6
-SWKS,,"Skyworks Solutions, Inc. (SWKS)",Information Technology,32,15,9,9
-SLG,,SL Green Realty Corp. (SLG),Real Estate,15,4,4,8
-SNA,,Snap-on Incorporated (SNA),Industrials,32,11,13,8
-SO,,The Southern Company (SO),Utilities,33,14,12,6
-LUV,,Southwest Airlines Co. (LUV),Industrials,32,10,16,6
-SWK,,"Stanley Black & Decker, Inc. (SWK)",Industrials,32,7,17,9
-SBUX,,Starbucks Corporation (SBUX),Consumer Discretionary,21,3,13,5
-STT,,State Street Corporation (STT),Financials,22,2,11,8
-SYK,,Stryker Corporation (SYK),Health Care,37,4,20,12
-SNPS,,"Synopsys, Inc. (SNPS)",Information Technology,20,1,13,6
-SYY,,Sysco Corporation (SYY),Consumer Staples,13,2,6,5
+NBL,nblenergy,"Noble Energy, Inc. (NBL)",Energy,41,21,11,8
+NSC,nscorp,Norfolk Southern Corporation (NSC),Industrials,24,9,12,4
+NTRS,northerntrust,Northern Trust Corporation (NTRS),Financials,25,2,12,11
+NLOK,nortonlifelock,NortonLifeLock Inc. (NLOK),Information Technology,16,1,10,6
+NCLH,cruisenorwegian,Norwegian Cruise Line Holdings Ltd. (NCLH),Consumer Discretionary,27,13,11,4
+NRG,nrgenergy,"NRG Energy, Inc. (NRG)",Utilities,40,21,11,8
+NUE,nucorcorp,Nucor Corporation (NUE),Materials,38,15,14,9
+NVDA,nvidia,NVIDIA Corporation (NVDA),Information Technology,13,2,4,7
+ORLY,oreillyauto,"O'Reilly Automotive, Inc. (ORLY)",Consumer Discretionary,13,0,9,4
+OXY,weareoxy,Occidental Petroleum Corporation (OXY),Energy,43,23,12,8
+OKE,oneok,"ONEOK, Inc. (OKE)",Energy,27,13,10,4
+ORCL,oracle,Oracle Corporation (ORCL),Information Technology,18,0,11,7
+PKG,packagingcorp,Packaging Corporation of America (PKG),Materials,19,13,2,4
+PH,parkerhannifin,Parker-Hannifin Corporation (PH),Industrials,30,7,15,8
+PAYX,paychex,"Paychex, Inc. (PAYX)",Information Technology,16,0,9,7
+PYPL,paypal,"PayPal Holdings, Inc. (PYPL)",Information Technology,19,0,12,8
+PNR,pentair,Pentair plc (PNR),Industrials,31,9,16,7
+PBCT,peoplesunited,"People's United Financial, Inc. (PBCT)",Financials,27,3,13,11
+PEP,pepsico,"PepsiCo, Inc. (PEP)",Consumer Staples,22,7,10,5
+PKI,perkinelmer,"PerkinElmer, Inc. (PKI)",Health Care,21,2,13,7
+PRGO,perrigocompany,Perrigo Company plc (PRGO),Health Care,41,3,24,13
+PFE,pfizer,Pfizer Inc. (PFE),Health Care,33,2,18,13
+PM,insidepmi,Philip Morris International Inc. (PM),Consumer Staples,29,7,14,8
+PSX,phillips66co,Phillips 66 (PSX),Energy,31,19,7,5
+PXD,pxdtweets,Pioneer Natural Resources Company (PXD),Energy,45,23,13,9
+PNC,pncbank,"The PNC Financial Services Group, Inc. (PNC)",Financials,20,2,10,8
+PFG,principal,"Principal Financial Group, Inc. (PFG)",Financials,22,2,9,12
+PGR,progressive,The Progressive Corporation (PGR),Financials,25,2,9,13
+PLD,prologis,"Prologis, Inc. (PLD)",Real Estate,10,3,3,5
+PRU,prudential,"Prudential Financial, Inc. (PRU)",Financials,19,1,10,8
+PEG,psegnews,Public Service Enterprise Group Incorporated (PEG),Utilities,29,14,10,5
+PSA,publicstorage,Public Storage (PSA),Real Estate,18,6,6,6
+PHM,pultegroupnews,"PulteGroup, Inc. (PHM)",Consumer Discretionary,22,8,9,5
+PVH,pvhcorp,PVH Corp. (PVH),Consumer Discretionary,15,1,7,7
+QRVO,qorvoinc,"Qorvo, Inc. (QRVO)",Information Technology,36,20,9,8
+QCOM,qualcomm,QUALCOMM Incorporated (QCOM),Information Technology,19,2,6,11
+PWR,quanta_services,"Quanta Services, Inc. (PWR)",Industrials,37,9,16,12
+RL,ralphlauren,Ralph Lauren Corporation (RL),Consumer Discretionary,14,1,6,7
+RJF,raymondjames,"Raymond James Financial, Inc. (RJF)",Financials,29,2,13,15
+O,realtyincome,Realty Income Corporation (O),Real Estate,19,7,7,5
+REG,regencycenters,Regency Centers Corporation (REG),Real Estate,11,3,3,4
+REGN,regeneron,"Regeneron Pharmaceuticals, Inc. (REGN)",Health Care,25,0,17,8
+RF,regionsnews,Regions Financial Corporation (RF),Financials,20,1,10,8
+RMD,resmed,ResMed Inc. (RMD),Health Care,28,4,12,11
+RHI,roberthalf,Robert Half International Inc. (RHI),Industrials,11,0,7,4
+ROK,rokautomation,"Rockwell Automation, Inc. (ROK)",Industrials,22,7,9,7
+ROP,industriesroper,"Roper Technologies, Inc. (ROP)",Industrials,21,1,14,6
+ROST,ross_stores,"Ross Stores, Inc. (ROST)",Consumer Discretionary,16,2,8,6
+RCL,royalcaribbean,Royal Caribbean Cruises Ltd. (RCL),Consumer Discretionary,23,10,9,4
+SPGI,spglobal,S&P Global Inc. (SPGI),Financials,14,1,6,6
+CRM,salesforce,"salesforce.com, inc. (CRM)",Information Technology,14,1,8,5
+SLB,schlumberger,Schlumberger Limited (SLB),Energy,24,10,7,7
+STX,seagate,Seagate Technology plc (STX),Information Technology,15,2,8,6
+SEE,sealed_air,Sealed Air Corporation (SEE),Materials,20,13,2,4
+SRE,sempraenergy,Sempra Energy (SRE),Utilities,30,13,10,6
+NOW,servicenow,"ServiceNow, Inc. (NOW)",Information Technology,22,2,14,7
+SHW,sherwinwilliams,The Sherwin-Williams Company (SHW),Materials,31,13,11,6
+SWKS,skyworksinc,"Skyworks Solutions, Inc. (SWKS)",Information Technology,32,15,9,9
+SLG,slgreen,SL Green Realty Corp. (SLG),Real Estate,15,4,4,8
+SNA,snapon_tools,Snap-on Incorporated (SNA),Industrials,32,11,13,8
+SO,southerncompany,The Southern Company (SO),Utilities,33,14,12,6
+LUV,southwestair,Southwest Airlines Co. (LUV),Industrials,32,10,16,6
+SWK,stanleyblkdeckr,"Stanley Black & Decker, Inc. (SWK)",Industrials,32,7,17,9
+SBUX,starbucks,Starbucks Corporation (SBUX),Consumer Discretionary,21,3,13,5
+STT,statestreet,State Street Corporation (STT),Financials,22,2,11,8
+SYK,strykercomm,Stryker Corporation (SYK),Health Care,37,4,20,12
+SNPS,synopsys,"Synopsys, Inc. (SNPS)",Information Technology,20,1,13,6
+SYY,sysco,Sysco Corporation (SYY),Consumer Staples,13,2,6,5
