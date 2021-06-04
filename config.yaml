@@ -1,0 +1,11 @@
+twitter_api_v2:
+  api_key: rjTnBkNwUYAPNGbmpkbajdFS5
+  api_secret_key: Ziv16WUHouQF7uYi1bKuUJDKKWkYqoRUKLaePi2rFMolsxF0Ia
+  bearer_token: AAAAAAAAAAAAAAAAAAAAAPlgQQEAAAAAUKrVOyEFAoK5q9Bd6qMCj0Mnnk4%3DH9mSvHc15wy0N1v3l5iuxGQKskEUAHwLTqkQsFg27EAT4dluV6
+
+search_tweets_v2:
+  account_type: premium
+  endpoint: https://api.twitter.com/2/tweets/search/recent
+  consumer_key: 953617899222126592-0UB9wz3L7jSKBdJXKTMNrx5nUXWGI6X
+  consumer_secret: MAwwWjVnwEcVniU6ehlaFSviyxX2wdPPb6RnVoRVrsXu9
+  bearer_token: AAAAAAAAAAAAAAAAAAAAAPlgQQEAAAAAUKrVOyEFAoK5q9Bd6qMCj0Mnnk4%3DH9mSvHc15wy0N1v3l5iuxGQKskEUAHwLTqkQsFg27EAT4dluV6
