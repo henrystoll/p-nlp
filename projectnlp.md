@@ -38,3 +38,13 @@ specific words that are used in companies with good ratings?
 
 limit to danish?
 
+
+
+ESG score
+
+https://www.morningstar.com/content/dam/marketing/shared/research/methodology/744156_Morningstar_Sustainability_Rating_for_Funds_Methodology.pdf
+
+https://www.kylerudden.com/blog/scraping-esg-scores/
+
+https://www.alva-group.com/blog/what-is-an-esg-score-and-how-is-it-calculated/
+
