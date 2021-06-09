@@ -15,7 +15,9 @@
 
 PROJECT
 
-- report in LaTeX: https://www.overleaf.com/2461753155sfgtrkwfpnfm
+- report in [LaTeX](https://www.overleaf.com/2461753155sfgtrkwfpnfm)
+
+- [diagram](https://drive.google.com/file/d/1nnA29VfjH2_n-LrPG2G-pgwkbvqnLcRu/view?usp=sharing)
 
 - Mendeley for reference and literature management
 
