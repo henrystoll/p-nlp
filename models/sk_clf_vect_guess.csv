@@ -1,0 +1,23 @@
+index,mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_model,params,split0_test_score,split1_test_score,split2_test_score,split3_test_score,split4_test_score,mean_test_score,std_test_score,rank_test_score
+0,26.549577760696412,0.36866539878556803,3.926515579223633,0.019292592405086958,RandomForestClassifier(),{'model': RandomForestClassifier()},0.8472491909385114,0.8660194174757282,0.8620466321243523,0.8626943005181347,0.8510362694300518,0.8578091620973558,0.007302247447962885,5
+1,1857.9430763721466,90.82731982790372,17.308408641815184,28.804357381015222,"XGBClassifier(base_score=None, booster=None, colsample_bylevel=None,
+              colsample_bynode=None, colsample_bytree=None, gamma=None,
+              gpu_id=None, importance_type='gain', interaction_constraints=None,
+              learning_rate=None, max_delta_step=None, max_depth=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=None, num_parallel_tree=None,
+              random_state=None, reg_alpha=None, reg_lambda=None,
+              scale_pos_weight=None, subsample=None, tree_method=None,
+              validate_parameters=None, verbosity=None)","{'model': XGBClassifier(base_score=None, booster=None, colsample_bylevel=None,
+              colsample_bynode=None, colsample_bytree=None, gamma=None,
+              gpu_id=None, importance_type='gain', interaction_constraints=None,
+              learning_rate=None, max_delta_step=None, max_depth=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=None, num_parallel_tree=None,
+              random_state=None, reg_alpha=None, reg_lambda=None,
+              scale_pos_weight=None, subsample=None, tree_method=None,
+              validate_parameters=None, verbosity=None)}",0.9359223300970874,0.9242718446601942,0.935880829015544,0.9352331606217616,0.9229274611398963,0.9308471251068967,0.00593782078835387,4
+2,365.95958065986633,638.3833505199433,20.10701036453247,24.11591036525468,MultinomialNB(),{'model': MultinomialNB()},0.7883495145631068,0.8220064724919094,0.8205958549222798,0.8121761658031088,0.8011658031088082,0.8088587621778427,0.012660471210562855,6
+3,26.906093692779542,15.34083217764397,3.511587619781494,2.353417744226627,"LogisticRegression(multi_class='multinomial', solver='newton-cg')","{'model': LogisticRegression(multi_class='multinomial', solver='newton-cg')}",0.972168284789644,0.96957928802589,0.9799222797927462,0.969559585492228,0.969559585492228,0.9721578047185473,0.0040109205337450545,2
+4,7.919240236282349,0.5393418900031463,1.5821036338806151,0.12576330666990254,LinearSVC(),{'model': LinearSVC()},0.9941747572815534,0.9889967637540453,0.9974093264248705,0.9941709844559585,0.991580310880829,0.9932664285594512,0.0028241783065975595,1
+5,10.959211540222167,0.4437483288533969,1.3418915748596192,0.21279955088391994,LogisticRegression(),{'model': LogisticRegression()},0.972168284789644,0.96957928802589,0.9799222797927462,0.969559585492228,0.969559585492228,0.9721578047185473,0.0040109205337450545,2
