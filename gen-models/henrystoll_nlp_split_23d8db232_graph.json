@@ -1,0 +1,149 @@
+﻿{
+    "backend": "tensorflow",
+    "class_name": "Functional",
+    "config": {
+        "input_layers": [
+            [
+                "text",
+                0,
+                0
+            ]
+        ],
+        "layers": [
+            {
+                "class_name": "InputLayer",
+                "config": {
+                    "batch_input_shape": [
+                        null
+                    ],
+                    "dtype": "string",
+                    "name": "text",
+                    "ragged": false,
+                    "sparse": false
+                },
+                "inbound_nodes": [],
+                "name": "text"
+            },
+            {
+                "class_name": "KerasLayer",
+                "config": {
+                    "dtype": "float32",
+                    "handle": "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3",
+                    "name": "preprocessing",
+                    "trainable": false
+                },
+                "inbound_nodes": [
+                    [
+                        [
+                            "text",
+                            0,
+                            0,
+                            {}
+                        ]
+                    ]
+                ],
+                "name": "preprocessing"
+            },
+            {
+                "class_name": "KerasLayer",
+                "config": {
+                    "dtype": "float32",
+                    "handle": "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-10_H-512_A-8/1",
+                    "name": "BERT_encoder",
+                    "trainable": true
+                },
+                "inbound_nodes": [
+                    {
+                        "input_mask": [
+                            "preprocessing",
+                            0,
+                            0,
+                            {}
+                        ],
+                        "input_type_ids": [
+                            "preprocessing",
+                            0,
+                            1,
+                            {}
+                        ],
+                        "input_word_ids": [
+                            "preprocessing",
+                            0,
+                            2,
+                            {}
+                        ]
+                    }
+                ],
+                "name": "BERT_encoder"
+            },
+            {
+                "class_name": "Dropout",
+                "config": {
+                    "dtype": "float32",
+                    "name": "dropout",
+                    "noise_shape": null,
+                    "rate": 0.1,
+                    "seed": null,
+                    "trainable": true
+                },
+                "inbound_nodes": [
+                    [
+                        [
+                            "BERT_encoder",
+                            0,
+                            11,
+                            {}
+                        ]
+                    ]
+                ],
+                "name": "dropout"
+            },
+            {
+                "class_name": "Dense",
+                "config": {
+                    "activation": "softmax",
+                    "activity_regularizer": null,
+                    "bias_constraint": null,
+                    "bias_initializer": {
+                        "class_name": "Zeros",
+                        "config": {}
+                    },
+                    "bias_regularizer": null,
+                    "dtype": "float32",
+                    "kernel_constraint": null,
+                    "kernel_initializer": {
+                        "class_name": "GlorotUniform",
+                        "config": {
+                            "seed": null
+                        }
+                    },
+                    "kernel_regularizer": null,
+                    "name": "classifier",
+                    "trainable": true,
+                    "units": 3,
+                    "use_bias": true
+                },
+                "inbound_nodes": [
+                    [
+                        [
+                            "dropout",
+                            0,
+                            0,
+                            {}
+                        ]
+                    ]
+                ],
+                "name": "classifier"
+            }
+        ],
+        "name": "model",
+        "output_layers": [
+            [
+                "classifier",
+                0,
+                0
+            ]
+        ]
+    },
+    "keras_version": "2.5.0"
+}
